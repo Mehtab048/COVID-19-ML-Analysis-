@@ -1,0 +1,36 @@
+Step 1: Open Anaconda Navigator
+         1.Launch Anaconda Navigator from your Start menu or applications list.
+         2.You'll see a GUI interface with several options like Jupyter Notebook, VS Code, and Environments.
+
+Step 2: Create a New Environment
+         1.Navigate to the Environments tab on the left side of Anaconda Navigator.
+         2.Click the Create button at the bottom.
+         3.A dialog box will appear:
+            Enter a name for your environment (e.g., ml_env).
+            Choose the Python version you want (e.g., 3.9 or 3.10).
+         4.Click Create and wait for the environment to be set up. It will download and install a basic set of libraries.
+
+Step 3: Install Necessary Libraries
+           1.Select your new environment from the list in the Environments tab.
+           2.In the right-hand pane, click Channels (optional, for additional sources).
+           3.Search for the libraries you need (e.g., pandas, numpy, matplotlib, scikit-learn, etc.):
+                Use the Search Packages box.
+                Check the box next to the desired libraries.
+          4.Click Apply to install the selected packages.
+
+
+Step 4: Enable VS Code Integration
+         1.Go to the Home tab in Anaconda Navigator.
+         2.If VS Code is not installed:
+              Click Install under VS Code in Anaconda Navigator. This installs VS Code within Anaconda.
+        3.Once installed, click Launch to open VS Code from Anaconda Navigator. This ensures VS Code can detect your Anaconda environments.
+
+
+
+Step 5: Configure the Environment in VS Code
+         Option 1: Using the Command Palette
+          1.Open VS Code and press Ctrl + Shift + P (or Cmd + Shift + P on Mac) to open the Command Palette.
+          2.Type and select Python: Select Interpreter.
+          3.Look for your Anaconda environment in the list, e.g.,
+          4 Automatically active your environment or run below command
+                 conda activate ml_env

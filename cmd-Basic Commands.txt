@@ -1,0 +1,4 @@
+1.To move back from folder
+cd..
+or
+cd\

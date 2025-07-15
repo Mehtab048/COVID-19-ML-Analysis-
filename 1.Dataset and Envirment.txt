@@ -1,0 +1,14 @@
+Step1 How to setup workspace in your VS Code
+    1.Create A folder in your desire location(e.g desktop)
+    2.now lunch VS Code and Go to 
+    3.File > Open Folder (or File > Open on some systems).
+    4.Select the folder you created (ML_Assignment) and click Open.
+             The folder will now be loaded in the Explorer panel on the left side of VS Code.
+
+Step 2 How Loaded Dataset To VS Code?
+       1. Download your required dataset from Kaggle
+       2.It will be a zip file extract this file and  copy the extracted folder and paste it to your workspace that your created in step 1.
+
+
+
+
