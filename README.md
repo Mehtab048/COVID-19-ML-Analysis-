@@ -1,7 +1,7 @@
 # COVID-19-ML-Analysis-
-# COVID-19 Patient Condition Prediction using Machine Learning
+# Coronavirus Visualization and Prediction Using Machine Learning Algorithm: Assessing Their Performance 
 
-This project analyzes a real-world COVID-19 dataset using various Machine Learning algorithms to predict patient infection risk and assess algorithm performance. The goal is to support decision-making in resource allocation and patient management during the pandemic.
+This project analyzes a real-world COVID-19 dataset using various Machine Learning algorithms to predict patient infection risk and assess the performance of these algorithms. The goal is to support decision-making in resource allocation and patient management during the pandemic.
 
 ## Problem Statement
 The COVID-19 pandemic created a global health crisis with limited medical resources. Accurate early prediction of patient risk helps healthcare providers allocate resources effectively.
