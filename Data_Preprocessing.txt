@@ -1,0 +1,21 @@
+
+------------------Note:-------------------
+always first import library
+scikit-learn most well know library in data science and this is the library that contains all machine learning models.
+
+----------most common libraries used:--------------
+1.numpy, matplotlip and pandas
+2.numpy allow to work with arrays
+3.matplotlip library which allow us to plot some very nice charts
+4.in matplotlip add(.) mean to acces different modules of the  matplotlip library and module we choose is pie plot
+5.Panda allow to import to dataet and create also create matrics of feature and dependent variable vactor.It is super useful library to preprocess your data set
+and mostly to import them that is dataset
+
+----------------How to import data set?------------
+1. you must have csv file that is data set execle file
+2. First you need to upload in coloab
+3. then import it using code. for that purpose firt you need a "variable" that contation on your data set
+4. Features in first column and dependent variable vector in last column,
+5.now need two variable for feature and dependent variable
+5 iloc function is used..it means locate indexes.iloc help to extract the data the rows and columns.
+6. (:) a colun in paython means range. it means by using this symbol we get all the rows here
